@@ -14,7 +14,7 @@ spec:
     repoURL: https://github.com/PacktPublishing/ArgoCD-in-Practice.git
     targetRevision: main
   syncPolicy:
-    automated: {}
+    automated: {} #teste
 
 
 #apiVersion: argoproj.io/v1alpha1
