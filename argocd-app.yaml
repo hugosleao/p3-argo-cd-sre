@@ -10,8 +10,8 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    path: p3-argo-cd-sre/kustomize-installation
-    repoURL: https://github.com/hugosleao/p3-argo-cd-sre.git
+    path: ch03/kustomize-installation
+    repoURL: https://github.com/PacktPublishing/ArgoCD-in-Practice.git
     targetRevision: main
   syncPolicy:
     automated: {}
